@@ -7,6 +7,8 @@ Fastify knex connection plugin write by ts.
 ```sh
 # this is for Knex of the version is before v1.0
 npm i fastify-knex-ts@v1 --save
+# this is for fastify@3
+npm i fastify-knex-ts@v2 --save
 
 npm i fastify-knex-ts --save
 ```

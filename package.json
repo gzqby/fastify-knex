@@ -1,6 +1,6 @@
 {
   "name": "fastify-knex-ts",
-  "version": "2.0.1",
+  "version": "3.0.1",
   "description": "knex's fastify plugin,knexjs,knex,fastify plugin",
   "main": "index.js",
   "files": [
